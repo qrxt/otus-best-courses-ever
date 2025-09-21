@@ -1,3 +1,5 @@
 node_modules
 coverage
 .env
+/config/cert.cert
+/config/cert.key
